@@ -1,0 +1,42 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=pattern_1vsbaseline.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20260115155022074118
+Mk2=Comment,baseline,221141,1,0
+Mk3=Comment,stop,253761,1,0
+Mk4=Comment,pattern_1,291341,1,0
+Mk5=Comment,stop,329461,1,0
+Mk6=Comment,pattern_1,352621,1,0
+Mk7=Comment,stop,389921,1,0
+Mk8=Comment,pattern_1,413221,1,0
+Mk9=Comment,stop,449941,1,0
+Mk10=Comment,pattern_1,486861,1,0
+Mk11=Comment,stop,523161,1,0
+Mk12=Comment,pattern_1,548001,1,0
+Mk13=Comment,stop,583801,1,0
+Mk14=Comment,pattern_1,604761,1,0
+Mk15=Comment,stop,639021,1,0
+Mk16=Comment,baseline,670161,1,0
+Mk17=Comment,stop,703141,1,0
+Mk18=Comment,pattern_1,732261,1,0
+Mk19=Comment,stop,764541,1,0
+Mk20=Comment,pattern_1,786341,1,0
+Mk21=Comment,stop,818381,1,0
+Mk22=Comment,pattern_1,840621,1,0
+Mk23=Comment,stop,873141,1,0
+Mk24=Comment,pattern_1,896601,1,0
+Mk25=Comment,stop,931021,1,0
+Mk26=Comment,pattern_1,947921,1,0
+Mk27=Comment,stop,980861,1,0
+Mk28=Comment,pattern_1,1003101,1,0
+Mk29=Comment,stop,1036221,1,0
+Mk30=Comment,baseline,1057581,1,0
+Mk31=Comment,stop,1091261,1,0
